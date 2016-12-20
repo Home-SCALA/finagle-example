@@ -1,0 +1,10 @@
+target/
+project/target/
+*.swp
+*.log
+.idea
+.classpath
+.project
+.cache-main
+.cache-tests
+/bin/
