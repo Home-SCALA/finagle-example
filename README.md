@@ -1,11 +1,12 @@
 #finagle-example
 
-* [http://eax.me/scalatest/](http://eax.me/scalatest/)
-* jdk-1.7.0
-* -Dsbt.version=0.13.9
-
-
+> Это SBT-приложение с примером тестирования с помощью **ScalaTest** [http://eax.me/scalatest/](http://eax.me/scalatest/)  **(** [scala-finagle-example](https://github.com/afiskon/scala-finagle-example) **)**
+> Здесь применяются:
 >
+> * jdk-1.7.0
+> * -Dsbt.version=0.13.9
+
+
 1. В SBT-проекте должна присутствовать директория  ' **project** '  с конфиггурационным файлом, внутри нее  ' **plugins.sbt** '.
    А также в корне этого SBT-проекта должен присутствовать основноной конфиггурационный файл  ' **build.sbt** '.
 2. Делаем **импорт** SBT-проекта в IntelliJIDEA, при этом выбираем:
