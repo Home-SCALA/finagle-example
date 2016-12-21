@@ -37,6 +37,6 @@
      - sbt launcher	**sbt-0.13.13**
      - JVM Flags **-XX:+CMSClassUnloadingEnabled -XX:MaxPermSize=256m -Xmx512M -Xss16M**
      - sbt Flags **-Dsbt.log.noformat=true**
-     - Actions **compile test**
+     - Actions **clean compile test**
 
 ![4](4.png)
